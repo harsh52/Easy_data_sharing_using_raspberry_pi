@@ -1,15 +1,15 @@
 Overview
-____________________
-
+--------------------------------------------------------------------------------------------------------------------------------------
 This Raspberry pi project is innovated to ease data transfer b/w hard-disk to many no of devices at a time.
 Lets get overview of this project through an example.
 Assume we are on a class of 60 students and teachers are  willing to gave us notes which is about 20 to 30 GB in size. Then how they will provide us notes.
 
 First case:-
----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 They might gave their pen-drive to each and every student and wait till all students finished coping it.
 But this whole process consume lots of time.
---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
 Second case:-
 
 
@@ -17,8 +17,9 @@ Sir may upload this whole 30 GB file to Google drive
 But wait Google provide only 15 GB of free space per account.
 So this idea fails to.
 To solve this problem I innovated a method using device raspberry pi.
+
 How this Device work:-
----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Raspberry pi generate wi-fi hotspot which created a web link(Own cloud) running over apache2 server.
 So whenever someone connected Pen-drive/hard-disk to raspberry pi device it automatically detect it and ready to send/download file over that web link.
@@ -34,17 +35,22 @@ We can use this in various numbers of ways :-
 1.	While travelling then we can also use this device.
 2.	We can use this in our friend group to transfer large amount of data.
 Only limitation is our imagination.
+-----------------------------------------------------------------------------------------------------------
 
 How to install/config:-
 -------------------------------------------------------------------------------------------------------------
 Connect your raspberry pi through Ethernet cable onto laptop.
 Type the following command:
------Git clone http://
-Sudo su
+Git clone https://github.com/harsh52/Easy_data_sharing_using_raspberry_pi.git
 
-Cd easy_data_sharing_using_raspberry_pi
-python config.py
+$ Sudo su
+
+$ Cd easy_data_sharing_using_raspberry_pi
+
+$ python config.py
+
 While running programme we have need to change some setting.
+
 The following changes needs to be made in the Raspberry Pi configuration
 
 a. Expand the root filesystem to have enough space for the cloud
@@ -91,6 +97,7 @@ MariaDB [(none)]> exit;
  Bye
 
 After finish installing programme
+
 This time to test it:-
 ----------------------------------------------------------------------------------------------------------------------------
 1.make sure you reboot your Raspberry pi
@@ -102,15 +109,23 @@ Here you see an access point(pi_station) has been created. Connect it through us
 
 Now we need to config in .bashrc file to automatically run this programme on statup.
 ------------------------------------------------------------------------------------------------------------------------------
-Cd
-Nano .bashrc
+$ Cd
+$ Nano .bashrc
+
 Paste these following line:-
-cd easy_data_sharing_using_raspberry_pi
-Python auto.py
+
+$ cd easy_data_sharing_using_raspberry_pi
+
+$ Python auto.py
+
 Save and exit.
-Config raspberry to avoid login during statup
+
+$ Config raspberry to avoid login during statup
+
 Sudo raspi-config
+
 In boot option select auto login.
+
 Now reboot 
 
 
