@@ -127,6 +127,13 @@ Sudo raspi-config
 In boot option select auto login.
 
 Now reboot 
+_______________________________________________________________________________________________________________
+
+Note for Beginners only : Here i am providing link of an (cloned_raspberrypi_image) which is already programmed(https://drive.google.com/open?id=1SChGnQrOTcPaLlZvz7bhO5Y8okoZ1oGk)
+just burn this into your memory card and you are done(you can easily access on your data on ip: 10.10.0.1/owncloud)
+But i will strongly recommend you to go through whole process you will learn a lot.
+still faces any kind of trouble feel free to ask(I will glad to help you).
+
 
 
 
