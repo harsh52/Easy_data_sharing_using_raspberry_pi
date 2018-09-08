@@ -27,7 +27,7 @@ Achieved 3rd prize from iit Guwahati in Competition Techniche(Tech Expo 2018), w
 
 Certificate:https://drive.google.com/openid=17Vi13xvAfduz__c58Zm7wIaffsAObfYG
 
-Trophy:https://drive.google.com/open?id=1ZcugKnz9NHzmKYPDxfuLD539fvdkgTQb
+Trophy:https://drive.google.com/open?id=17Vi13xvAfduz__c58Zm7wIaffsAObfYG
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 How this Device work:-
