@@ -25,9 +25,9 @@ Achievement:
 Achieved 3rd prize from iit Guwahati in Competition Techniche(Tech Expo 2018), which is a national level competition.
 
 
-Certificate:https://drive.google.com/openid=17Vi13xvAfduz__c58Zm7wIaffsAObfYG
+Certificate:https://drive.google.com/open?id=17Vi13xvAfduz__c58Zm7wIaffsAObfYG
 
-Trophy:https://drive.google.com/open?id=17Vi13xvAfduz__c58Zm7wIaffsAObfYG
+Trophy:https://drive.google.com/open?id=1ZcugKnz9NHzmKYPDxfuLD539fvdkgTQb
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 How this Device work:-
