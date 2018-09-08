@@ -1,6 +1,7 @@
 Overview
 --------------------------------------------------------------------------------------------------------------------------------------
-This Raspberry pi project is innovated to ease data transfer b/w hard-disk to many no of devices at a time.
+My project is a device which can convert any normal(Wired) hard drive to wifi enabled hard drive.
+
 Lets get overview of this project through an example.
 Assume we are on a class of 60 students and teachers are  willing to gave us notes which is about 20 to 30 GB in size. Then how they will provide us notes.
 
@@ -18,6 +19,14 @@ But wait Google provide only 15 GB of free space per account.
 So this idea fails to.
 To solve this problem I innovated a method using device raspberry pi.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+Achievement:
+
+Achieved 3rd prize from iit Guwahati in Competition Techniche(Tech Expo 2018), which is a national level competition.
+
+Certificate: https://drive.google.com/openid=17Vi13xvAfduz__c58Zm7wIaffsAObfYG
+Trophy: https://drive.google.com/open?id=1ZcugKnz9NHzmKYPDxfuLD539fvdkgTQb
+----------------------------------------------------------------------------------------------------------------------------------------
 How this Device work:-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
