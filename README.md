@@ -7,7 +7,7 @@ Assume we are on a class of 60 students and teachers are  willing to gave us not
 
 First case:-
 ----------------------------------------------------------------------------------------------------------------------------------------
-They might gave their pen-drive to each and every student and wait till all students finished coping it.
+They might gave their pen-drive to each and every student and wait till all students finished copying it.
 But this whole process consume lots of time.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
